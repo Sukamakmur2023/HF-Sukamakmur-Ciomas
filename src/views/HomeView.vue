@@ -22,7 +22,7 @@ import Sidebar from "../components/Sidebar.vue";
       <p class="text-lg font-semibold">Misi</p>
       <ul>
         <li>
-          1. Mengembangkan system Pemerintahan Desa yang bersih dan profesional
+          1. keadilan sosial bagi seluruh rakyat indonesia
           serta berorientasi pada pelayanan publik dengan prinsif kerja ikhlas,
           lakukan sekarang dan siap turun ke lapangan;
         </li>
